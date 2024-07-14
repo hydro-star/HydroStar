@@ -29,7 +29,7 @@ header {
   margin: 0 auto;
   padding: 20px;
   text-align: center;
-  color: #5e265c;
+  color: #25142d;
   
 }
 
@@ -38,7 +38,7 @@ footer {
 
   padding: 20px;
   text-align: center;
-  color: #e5de0b;
+  color: #dc2430;
   text-shadow: 1px 1px 2px black;
 }
 
@@ -57,9 +57,9 @@ div.img {
 nav.menu-lateral {
   width: 80px;
   height: 100%;
-  background-color: #7d075e;
+  background-color: #25142d;
   padding: 40px 0 40px 1%;
-  box-shadow: 3px 0 0 #ea0b0b;
+  box-shadow: 3px 0 0 #dc2430;
   
   position: fixed;
   top: 0;
@@ -93,11 +93,11 @@ ul li.item-menu{
 }
 
 ul li.ativo {
-  background-color: #ea0b0b;
+  background-color: #dc2430;
 }
 
 ul li.item-menu:hover{
-  background: #ea0b0b;
+  background: #dc2430;
 }
 
 ul li.item-menu a{
