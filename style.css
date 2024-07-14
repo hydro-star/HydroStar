@@ -14,7 +14,7 @@ body {
 
 /* Estilos para o cabeçalho */
 header {
-  color: #ff0000;
+  color: linear-gradient(45deg, #7b4367, #dc2430)
   padding: 20px;
   text-align: center;
   background: rgba(6, 2, 6, 0.5);
