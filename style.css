@@ -57,7 +57,7 @@ div.img {
 nav.menu-lateral {
   width: 80px;
   height: 100%;
-  background-color: #25142d;
+  background-color: #7b4397;
   padding: 40px 0 40px 1%;
   box-shadow: 3px 0 0 #dc2430;
   
@@ -78,7 +78,7 @@ nav.menu-lateral.expandir{
 }
 
 .btn-expandir > i {
-  color: white;
+  color: #25142d;
   font-size: 24px;
   cursor: pointer;
 }
@@ -101,7 +101,7 @@ ul li.item-menu:hover{
 }
 
 ul li.item-menu a{
-  color:#fbff00;
+  color:#25142d;
   text-decoration:none;
   font-size: 20px;
   padding:20px 4%;
